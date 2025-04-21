@@ -1,1 +1,12 @@
-
+{
+  "name": "Nonprofit Homepage",
+  "description": "Homepage layout for a nonprofit focused on poverty, food, and education.",
+  "version": "1.0.0",
+  "layouts": [
+    {
+      "name": "Homepage",
+      "file": "layouts/homepage.json",
+      "type": "page"
+    }
+  ]
+}
