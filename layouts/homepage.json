@@ -1,0 +1,49 @@
+{
+  "sections": [
+    {
+      "section": "Hero",
+      "content": "Empowering Communities. Changing Lives. + CTA Buttons"
+    },
+    {
+      "section": "Mission",
+      "content": "Brief mission text + image"
+    },
+    {
+      "section": "Focus Areas",
+      "content": [
+        "Food Insecurity",
+        "Education Access",
+        "Senior Support"
+      ]
+    },
+    {
+      "section": "Impact Stats",
+      "content": [
+        "Families Fed",
+        "Kids Tutored",
+        "Seniors Supported"
+      ]
+    },
+    {
+      "section": "Testimonials",
+      "content": "Carousel of real stories"
+    },
+    {
+      "section": "Get Involved",
+      "content": [
+        "Volunteer",
+        "Host a Drive",
+        "Donate",
+        "Subscribe"
+      ]
+    },
+    {
+      "section": "Newsletter Signup",
+      "content": "Email capture form"
+    },
+    {
+      "section": "Footer",
+      "content": "Contact, Social, Quick Links, Donate"
+    }
+  ]
+}
